@@ -1,0 +1,20 @@
+   42  git show
+   43  git checkout master
+   44  history | tail -n10 
+   45  git merge newbr2
+   46  git merge master
+   47  git checkout newbr2
+   48  git merge master
+   49  git checkout newbr2
+   50  history | tail -n10 
+   51  history | tail >> master
+   48  git merge master
+   49  git checkout newbr2
+   50  history | tail -n10 
+   51  history | tail >> master
+   52  git merge master
+   53  git checkout master
+   54  git merge master
+   55  git merge newbr2
+   56  history | tail 
+   57  history | tail >> master
