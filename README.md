@@ -21,6 +21,9 @@
 
 
 1. git basic
+
+Exercise md file
+
 2. github exercise
 
 # helloo
